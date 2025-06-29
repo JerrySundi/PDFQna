@@ -1,0 +1,14 @@
+unstructured
+tiktoken
+chromadb
+pypdf
+openai
+langchain
+pandas
+numpy
+langchain_community
+python-dotenv
+wikipedia
+serpapi
+streamlit
+logging
